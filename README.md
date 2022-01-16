@@ -1,2 +1,8 @@
-# excursion_project
-Web development training
+# Excursion Project
+
+## Introduction
+* Web development training on Codecademy
+## Web Technologies
+* HTML
+* CSS
+
